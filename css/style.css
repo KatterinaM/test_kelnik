@@ -1,0 +1,13 @@
+#object_table{border:0px solid #d9d9d9;border-collapse:collapse;background:#ffffff;width:80%;float:left;margin-left: 30px;}
+#object_table th{color:#990100;text-align:left;}
+#object_table td, #object_table th{font-size:14px;border:1px solid #99bfc9;vertical-align:top;padding:5px;height:30px;font-weight:normal;}
+#object_table tr.title{background:#e4ecf1;text-align:center;font-size:12px;height:35px;}
+#object_table tr.title th{height:25px;color:#012757;text-align:center;padding-top:10px;font-size:16px;padding-bottom:10px;}
+
+#form_table td input.value{width:200px; border:1px solid #7f9db9;font-size:15px;}
+#form_table td textarea{width:196px; border:1px solid #7f9db9;font-size:15px;}
+#form_table td.title {width:100px; color:#012757;text-align:left;padding-top:10px;font-size:16px;padding-bottom:10px;}
+#form_table input{border:1px solid #7f9db9;font-size:15px;color: #012757;}
+#form_table {margin-left: 30px;}
+
+h1{text-align:center;color: #012757;}

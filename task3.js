@@ -4,15 +4,13 @@ var c = {
 
     'c': function() {
 
-        var obj = this
-
         window.setTimeout(
 
             function() {
 
-                obj.d();
+                this.d();
 
-            }, 4);
+            }.bind(this), 4);
 
     },
 
